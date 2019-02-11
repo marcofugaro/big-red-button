@@ -1,0 +1,15 @@
+{
+  "name": "red-button",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "dependencies": {
+    "got": "^9.6.0",
+    "johnny-five": "^1.0.0",
+    "p-event": "^2.2.0",
+    "robotjs": "^0.5.1"
+  }
+}
